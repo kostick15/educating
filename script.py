@@ -1,4 +1,4 @@
-print("2220")
+print("hello world")
 
 while 1:
     if 1!=0:
